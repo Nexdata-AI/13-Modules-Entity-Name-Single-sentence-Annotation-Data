@@ -3,7 +3,7 @@
 ## Description
 13 modules of more than 15,000 piece data collected from different scenes, with annotation on entity name and entity type, rich in content, high in data accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/967?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/nlu/967?source=Github
 
 
 # Specifications
